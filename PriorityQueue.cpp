@@ -60,5 +60,4 @@ public:
         vector1.pop_back();
         SiftDown(0);
     }
-    
 };
